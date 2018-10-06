@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './icon/logo.png'
+import {Icon} from 'react-fa'
 
 export default function Header(props) {
     return (
